@@ -8,4 +8,5 @@ int main(){
     printf("vous avez saisis %2.f et %2.f\n", v, a);
     c = v * a;
     printf("Le produit de %2.f et %2.f est %2.f\n", v, a, c);
+    return 0;
 }
